@@ -8,3 +8,4 @@ Data is stored in this Drive folder here - https://drive.google.com/drive/u/1/fo
 - https://towardsdatascience.com/sentiment-analysis-in-10-minutes-with-bert-and-hugging-face-294e8a04b671
 - https://www.youtube.com/watch?v=hinZO--TEk4&ab_channel=AbhishekThakur
 - https://github.com/hanxiao/bert-as-service
+- https://skimai.com/fine-tuning-bert-for-sentiment-analysis/
