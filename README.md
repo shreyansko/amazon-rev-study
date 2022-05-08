@@ -1,5 +1,7 @@
-# Amazon Reviews Study
-Group 1 NLP Final Project for Fall '21 semester 
+# Reviewing the Amazon Review Scale: A sentiment Analysis
+
+## Summary: 
+This project sought to explore the relationship between Amazon product reviews and their associated star ratings using three Natural Language Processing models: BERT, GPT-3, and NLTK VADER.
 
 
 Data is stored in this Drive folder here - https://drive.google.com/drive/u/1/folders/1u3lv5hFmV6n0JsTMAQzehCIFS0gKxSud
